@@ -90,6 +90,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - **Instructor:** Mr. Yogesh Gholap
-- **Course:** Microprocessor & Peripherals Interfacing Lab (ECL501)
+- **Subject:** Microprocessor & Peripherals Interfacing Lab (ECL501)
 - **Institution:** Don Bosco Institute of Technology, University of Mumbai
 
