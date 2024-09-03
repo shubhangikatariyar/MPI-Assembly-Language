@@ -87,7 +87,7 @@ This repository contains assembly language programs developed as part of my lab 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## Acknowlegdments
 
 - **Instructor:** Mr. Yogesh Gholap
 - **Subject:** Microprocessor & Peripherals Interfacing Lab (ECL501)
